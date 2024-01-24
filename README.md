@@ -23,7 +23,7 @@ To get a local copy of this project up and running, follow these steps:
 1. Clone the repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/sanjay-1458/CRUD-Application-Using-React.js.git
+   git clone https://github.com/sanjay-1458/Banking-System.git
    ```
 
 2. Navigate to the project's directory:
